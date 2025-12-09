@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ロキ",
+  "base_artist": "みきとP",
+  "createdAt": "2025-12-09T05:31:53.400534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "宮下 遊",
+      "has_synced": true,
+      "path": "select/01_ロキ_宮下_遊.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロキ (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_ロキ_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_ロキ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/04_ロキ_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/05_ロキ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "εpsilonΦ",
+      "has_synced": true,
+      "path": "select/06_ロキ_εpsilonΦ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Kotone",
+      "has_synced": true,
+      "path": "select/07_ロキ_Kotone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/08_ロキ_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "MikitoP & Tenjin Kotone",
+      "has_synced": true,
+      "path": "select/09_ロキ_MikitoP_&_Tenjin_Kotone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/10_ロキ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロキ - ROKI (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/11_ロキ_-_ROKI_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Mikito-P feat. Kagamine, Rin、Kagamine, Len",
+      "has_synced": true,
+      "path": "select/12_ロキ_Mikito-P_feat._Kagamine,_Rin、Kagamine,_Len.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロキ - ROKI (feat. 星乃一歌",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/13_ロキ_-_ROKI_(feat._星乃一歌_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "MikotoP",
+      "has_synced": true,
+      "path": "select/14_ロキ_MikotoP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ロキ",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/15_ロキ_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ロキ - ROKI",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/16_ロキ_-_ROKI_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ロキ (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/17_ロキ_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロキ",
+      "artist": "みきとP",
+      "has_synced": false,
+      "path": "select/pl_01_ロキ_みきとP.txt"
+    }
+  ]
+}
